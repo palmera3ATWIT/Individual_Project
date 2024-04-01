@@ -7,7 +7,7 @@ For my individual Data Science project, I decided to do a statistical analysis o
 3)  What time duration of options produces the most profit?
 
 ## Data Selection
-
+For most of the stock data, I will be using yahoo finance, which allows users to directly create a csv for any stock with very good historical stock data. For supplementary data(for options specificaly), I will be using tradytics which has historical options data for the past 3 months.
 
 ## Methods
 
