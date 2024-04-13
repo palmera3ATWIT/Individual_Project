@@ -21,6 +21,7 @@ For most of the stock data, I will be using yahoo finance, which allows users to
 
 ![AMD_CRM_PREDICTION](https://github.com/palmera3ATWIT/Individual_Project/assets/90588963/b7013445-f199-4d43-897e-eb596556b015)
 
-The equation I found for the line of best fit was: CRM Adjusted Closing Price = (0.6643517902508947 * Open) + (0.2823298211818703 * High) + (-1.0673847275309807 * Low) + (0.6109839623164908 * Close) + (0.6109839623164904 * Adj Close) + (-1.4448281075441292e-07 * Volume) + 99.7633936525906
+The equation I found for the line of best fit was: CRM Adjusted Closing Price = (0.6643517902508947 * Open) + (0.2823298211818703 * High) + (-1.0673847275309807 * Low) + (0.6109839623164908 * Close) + (0.6109839623164904 * Adj Close) + (-1.4448281075441292e-07 * Volume) + 99.7633936525906.
+
 The R-sqared value for this equation is .93 which means a large portion of the variabilty in the adjusted closing price of CRM can be explained by the opening price, high, low, closing price, adjusted close and volume of AMD.
 ## Discussion
