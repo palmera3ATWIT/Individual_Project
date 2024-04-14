@@ -45,7 +45,7 @@ Overall the line of best fit for the NASDAQ seems to more accurately predict the
 
 ![image](https://github.com/palmera3ATWIT/Individual_Project/assets/90588963/36debf04-8f82-4ea6-b29d-3fc126dbc783)
 
-The equation of the line of best fit: Profit = (-7.332796598689043 * Delta) + (1.4139366526363821 * Theta) + 0.3964278532438654
+The quation of the line of best fit: Profit = (-0.011379173374003694 * Duration) + (0.004541836266787091 * Ivol) + (-7.046599174713427 * Delta) + (1.7946513804295197 * Theta) + 0.8807070237599519
 
 The R-squared value: 0.14277088787593006
 
