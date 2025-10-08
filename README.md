@@ -36,7 +36,7 @@ S&P 500 Close = -10.64964726631394 * Days Until Christmas + 4798.693571428571
 NASDAQ Close = -43.30615520282186 * Days Until Christmas + 15154.459761904764
 
 And the R-squared values I found for the lines of best fit are:
-SP500 R-squared: 0.7603686714441411
+S&P500 R-squared: 0.7603686714441411
 NASDAQ R-squared: 0.8584980174914311
 
 Overall the line of best fit for the NASDAQ seems to more accurately predict the closing price than the line of best fit for the S&P 500. The graph trends downward for both stocks, likely because more people tend to buy gifts early in December to make sure they arrive in time for Christmas.
@@ -45,7 +45,9 @@ Overall the line of best fit for the NASDAQ seems to more accurately predict the
 
 ![image](https://github.com/palmera3ATWIT/Individual_Project/assets/90588963/36debf04-8f82-4ea6-b29d-3fc126dbc783)
 
-The quation of the line of best fit: Profit = (-0.011379173374003694 * Duration) + (0.004541836266787091 * Ivol) + (-7.046599174713427 * Delta) + (1.7946513804295197 * Theta) + 0.8807070237599519
+The quation of the line of best fit: 
+
+Profit = (-0.011379173374003694 * Duration) + (0.004541836266787091 * Ivol) + (-7.046599174713427 * Delta) + (1.7946513804295197 * Theta) + 0.8807070237599519
 
 The R-squared value: 0.14277088787593006
 
